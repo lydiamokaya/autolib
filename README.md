@@ -2,7 +2,7 @@
 ## Problem statement
 To work as a Data Scientist for the Autolib electric car-sharing service company to investigate a claim about the blue cars from the Autolib dataset on either weekday or weekend.
 
-Creating Hypothesis
+## Creating Hypothesis
 H0:Bluecars are mostly taken on weekdays.
 
 H1: Bluecars are not mostly taken on weekdays.
